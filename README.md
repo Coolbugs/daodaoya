@@ -1,5 +1,8 @@
 # 导导鸭导航永久发布页DaoDaoYa
 
+## 介绍
+导导鸭导航（www.daodaoya.com） 是鸭场主建立的一个鸭仓库，搜集了各类的宝藏网站。
+
 ## 可直接关注博客
 [点击进入盛世容颜博客](https://www.superry.net)
 
