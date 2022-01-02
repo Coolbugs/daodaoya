@@ -7,4 +7,11 @@
 [点击进入最新站点地址](https://www.daodaoya.com)
 
 ## 其他发布页面
+
+[点击前往Gitee发布页](https://gitee.com/Coolbugs/daodaoya/)
+
 [点击前往](https://daodaoya.qlikes.cn)
+
+##欢迎提交优质站点
+
+邮箱：hao@biun.cn
